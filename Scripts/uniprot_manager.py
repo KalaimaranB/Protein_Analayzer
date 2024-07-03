@@ -14,7 +14,7 @@ from io import StringIO
 import utilities
 from manager import Manager
 
-Entrez.email = "kalaimaranb25@gmail.com"
+Entrez.email = ""
 
 
 # Class to store all functionality related to UniProt

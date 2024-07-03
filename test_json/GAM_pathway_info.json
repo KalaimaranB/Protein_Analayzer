@@ -1,0 +1,182 @@
+[
+    {
+        "Name": "Activation of NOXA and translocation to mitochondria",
+        "Url": "https://reactome.org/content/detail/R-HSA-111448"
+    },
+    {
+        "Name": "Activation of PUMA and translocation to mitochondria",
+        "Url": "https://reactome.org/content/detail/R-HSA-139915"
+    },
+    {
+        "Name": "Pre-NOTCH Transcription and Translation",
+        "Url": "https://reactome.org/content/detail/R-HSA-1912408"
+    },
+    {
+        "Name": "Oxidative Stress Induced Senescence",
+        "Url": "https://reactome.org/content/detail/R-HSA-2559580"
+    },
+    {
+        "Name": "Formation of Senescence-Associated Heterochromatin Foci (SAHF)",
+        "Url": "https://reactome.org/content/detail/R-HSA-2559584"
+    },
+    {
+        "Name": "Oncogene Induced Senescence",
+        "Url": "https://reactome.org/content/detail/R-HSA-2559585"
+    },
+    {
+        "Name": "DNA Damage/Telomere Stress Induced Senescence",
+        "Url": "https://reactome.org/content/detail/R-HSA-2559586"
+    },
+    {
+        "Name": "SUMOylation of transcription factors",
+        "Url": "https://reactome.org/content/detail/R-HSA-3232118"
+    },
+    {
+        "Name": "Autodegradation of the E3 ubiquitin ligase COP1",
+        "Url": "https://reactome.org/content/detail/R-HSA-349425"
+    },
+    {
+        "Name": "Association of TriC/CCT with target proteins during biosynthesis",
+        "Url": "https://reactome.org/content/detail/R-HSA-390471"
+    },
+    {
+        "Name": "Pyroptosis",
+        "Url": "https://reactome.org/content/detail/R-HSA-5620971"
+    },
+    {
+        "Name": "TP53 Regulates Metabolic Genes",
+        "Url": "https://reactome.org/content/detail/R-HSA-5628897"
+    },
+    {
+        "Name": "Ub-specific processing proteases",
+        "Url": "https://reactome.org/content/detail/R-HSA-5689880"
+    },
+    {
+        "Name": "Ovarian tumor domain proteases",
+        "Url": "https://reactome.org/content/detail/R-HSA-5689896"
+    },
+    {
+        "Name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+        "Url": "https://reactome.org/content/detail/R-HSA-5693565"
+    },
+    {
+        "Name": "Interleukin-4 and Interleukin-13 signaling",
+        "Url": "https://reactome.org/content/detail/R-HSA-6785807"
+    },
+    {
+        "Name": "TP53 Regulates Transcription of DNA Repair Genes",
+        "Url": "https://reactome.org/content/detail/R-HSA-6796648"
+    },
+    {
+        "Name": "TP53 Regulates Transcription of Genes Involved in Cytochrome C Release",
+        "Url": "https://reactome.org/content/detail/R-HSA-6803204"
+    },
+    {
+        "Name": "TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain",
+        "Url": "https://reactome.org/content/detail/R-HSA-6803205"
+    },
+    {
+        "Name": "TP53 Regulates Transcription of Caspase Activators and Caspases",
+        "Url": "https://reactome.org/content/detail/R-HSA-6803207"
+    },
+    {
+        "Name": "TP53 Regulates Transcription of Death Receptors and Ligands",
+        "Url": "https://reactome.org/content/detail/R-HSA-6803211"
+    },
+    {
+        "Name": "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804114"
+    },
+    {
+        "Name": "TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804115"
+    },
+    {
+        "Name": "TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804116"
+    },
+    {
+        "Name": "Regulation of TP53 Expression",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804754"
+    },
+    {
+        "Name": "Regulation of TP53 Activity through Phosphorylation",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804756"
+    },
+    {
+        "Name": "Regulation of TP53 Degradation",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804757"
+    },
+    {
+        "Name": "Regulation of TP53 Activity through Acetylation",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804758"
+    },
+    {
+        "Name": "Regulation of TP53 Activity through Association with Co-factors",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804759"
+    },
+    {
+        "Name": "Regulation of TP53 Activity through Methylation",
+        "Url": "https://reactome.org/content/detail/R-HSA-6804760"
+    },
+    {
+        "Name": "PI5P Regulates TP53 Acetylation",
+        "Url": "https://reactome.org/content/detail/R-HSA-6811555"
+    },
+    {
+        "Name": "G2/M DNA damage checkpoint",
+        "Url": "https://reactome.org/content/detail/R-HSA-69473"
+    },
+    {
+        "Name": "G2/M Checkpoints",
+        "Url": "https://reactome.org/content/detail/R-HSA-69481"
+    },
+    {
+        "Name": "Stabilization of p53",
+        "Url": "https://reactome.org/content/detail/R-HSA-69541"
+    },
+    {
+        "Name": "Transcriptional activation of cell cycle inhibitor p21",
+        "Url": "https://reactome.org/content/detail/R-HSA-69895"
+    },
+    {
+        "Name": "The role of GTSE1 in G2/M progression after G2 checkpoint",
+        "Url": "https://reactome.org/content/detail/R-HSA-8852276"
+    },
+    {
+        "Name": "Transcriptional Regulation by VENTX",
+        "Url": "https://reactome.org/content/detail/R-HSA-8853884"
+    },
+    {
+        "Name": "RUNX3 regulates CDKN1A transcription",
+        "Url": "https://reactome.org/content/detail/R-HSA-8941855"
+    },
+    {
+        "Name": "Regulation of PTEN gene transcription",
+        "Url": "https://reactome.org/content/detail/R-HSA-8943724"
+    },
+    {
+        "Name": "Loss of function of TP53 in cancer due to loss of tetramerization ability",
+        "Url": "https://reactome.org/content/detail/R-HSA-9723905"
+    },
+    {
+        "Name": "Signaling by ALK fusions and activated point mutants",
+        "Url": "https://reactome.org/content/detail/R-HSA-9725370"
+    },
+    {
+        "Name": "Regulation of NF-kappa B signaling",
+        "Url": "https://reactome.org/content/detail/R-HSA-9758274"
+    },
+    {
+        "Name": "Zygotic genome activation (ZGA)",
+        "Url": "https://reactome.org/content/detail/R-HSA-9819196"
+    },
+    {
+        "Name": "Factors involved in megakaryocyte development and platelet production",
+        "Url": "https://reactome.org/content/detail/R-HSA-983231"
+    },
+    {
+        "Name": "PKR-mediated signaling",
+        "Url": "https://reactome.org/content/detail/R-HSA-9833482"
+    }
+]

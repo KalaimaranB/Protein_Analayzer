@@ -1,0 +1,20 @@
+runtime: python310
+
+entrypoint: gunicorn -b :$PORT main:app
+
+env_variables:
+  CLOUD_REGION: us-central1  # or your desired region
+  FLASK_ENV: production
+
+handlers:
+  - url: /.*
+    script: auto
+
+readiness_check:
+  path: "/_ah/ready"
+  check_interval_sec: 5
+  timeout_sec: 4
+  failure_threshold: 2
+  success_threshold: 2
+
+

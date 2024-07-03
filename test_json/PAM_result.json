@@ -1,0 +1,29 @@
+{
+    "Chromosome": "17",
+    "Position": "7661779-7687538",
+    "Protein class": [
+        "Cancer-related genes",
+        "Disease related genes",
+        "Human disease related genes",
+        "Plasma proteins",
+        "Potential drug targets",
+        "Predicted intracellular proteins",
+        "Transcription factors",
+        "Transporters"
+    ],
+    "Biological process": [
+        "Apoptosis",
+        "Biological rhythms",
+        "Cell cycle",
+        "Host-virus interaction",
+        "Necrosis",
+        "Transcription",
+        "Transcription regulation"
+    ],
+    "Molecular function": [
+        "Activator",
+        "DNA-binding",
+        "Repressor"
+    ],
+    "URL": "https://www.proteinatlas.org/search/P04637"
+}

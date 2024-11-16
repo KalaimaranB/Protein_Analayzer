@@ -6,14 +6,12 @@ The **Bioinformatics Project** is a comprehensive tool designed to streamline va
 
 ## Objectives
 
-- **Protein Analysis:** Utilize AI and AlphaFold to predict protein structures and generate detailed reports.
+- **Protein Analysis:** Utilizes AlphaFold to undertsand protein structures and generate detailed reports.
 - **Genome Management:** Manage genome data efficiently with integrated tools and APIs.
 - **Data Visualization:** Generate visual reports and graphics for better understanding and presentation of bioinformatics data.
-- **Web Interface:** Provide an easy-to-use web interface for accessing various functionalities of the tool.
 
 ## Features
 
-- **AI and Machine Learning Integration:** Utilize advanced algorithms for protein structure prediction and analysis.
 - **Genome Data Management:** Tools for managing and analyzing genome sequences.
 - **Automated Report Generation:** Generate PDF reports for protein analysis and other bioinformatics tasks.
 - **Web Application:** Built using Flask, providing a web-based interface for users.
@@ -43,4 +41,4 @@ The **Bioinformatics Project** is a comprehensive tool designed to streamline va
 - **Protein report.pdf:** An example of a generated protein report.
 
 ## Summary
-The Bioinformatics Project is a sophisticated software tool designed to streamline various bioinformatics tasks such as protein analysis, genome management, and data visualization. This project leverages AI and machine learning algorithms to predict protein structures and generate detailed reports. It also includes tools for managing genome data and integrating with various bioinformatics databases. While the project is still in progress and does not yet feature a user interface, it provides a strong foundation for automated bioinformatics analysis and data management through its robust backend functionality.
+The Bioinformatics Project is an in progress software tool designed to streamline various bioinformatics tasks such as protein analysis, genome management, and data visualization. It includes tools for managing genome data and integrating with various bioinformatics databases. While the project is still in progress and does not yet feature a user interface, it provides a strong foundation for automated bioinformatics analysis and data management through its robust backend functionality. The purpose of this project was to challenge me to better understand how to use generative ai tools to write programs. I wanted to see to what extent generative tools can write quality code and this project allowed me to better understand that. They tend to generally have a decent capability to write functional code, when working locally. However, the use of various APIs and the requirement to connect various outputs together was something that generative ai struggled with and had to be written manually to a larger extent. This project serves to showcase my ability to use ai to write quality functioning code relatively quickly. 
